@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+ 
+ 
+ *{
+margin: 0%;
+padding: 0%;
+box-sizing: border-box;
+}
+
+.ini{
+font-weight: 900;
+font-size: 24px;
+font-family: 'Roboto';
+font-style: normal;
+text-transform: uppercase;
+text-decoration: none;
+color: black;
+}
+
+
+.sob{ 
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+color: black;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+.pro{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+color: black;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+.ser{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 24px;
+color: black;
+text-transform: uppercase;
+text-decoration: none;
+}
+
+.cont{
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+   font-size: 24px;
+   color: black;
+   text-transform: uppercase;
+   text-decoration: none;
+}
+
+
+div{
+    display: flex;
+justify-content: space-around;
+align-items: center;
+
+}
+.lert{
+    gap: 30px;
+}
+
+.im{
+    gap: 20px;
+}
+.logo{
+    padding-top: 20px;
+}
+
+.ini:hover{
+    color: #4044A0;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.sob:hover{
+    color: #4044A0;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.pro:hover{
+    color: #4044A0;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.ser:hover{
+    color: #4044A0;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.cont:hover{
+    color: #4044A0;
+    text-transform: uppercase;
+    text-decoration: none;
+}
